@@ -1,6 +1,6 @@
 # Cloud KMS
 
-This repository contains a complete implementation of a Google Cloud Platform (GCP) lab focused on **Cloud Key Management Service (KMS)** for encrypting data and managing encryption keys. The project demonstrates advanced security features including secure Cloud Storage setup, key management, and audit logging.
+This repository contains a complete implementation of a Google Cloud Platform (GCP) lab focused on **Cloud Key Management Service (KMS)** for encrypting data and managing encryption keys. The project demonstrates advanced security features including secure Cloud Storage setup, key management, and audit logging. 
 
 ## Video
 
