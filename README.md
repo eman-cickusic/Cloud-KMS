@@ -16,7 +16,7 @@ This lab project covers:
 - IAM permissions management for KMS resources
 - Viewing Cloud Storage audit logs
 
-## 📚 What You'll Learn
+## 📚 What You'll Learn 
 
 - How to encrypt data and manage encryption keys using Cloud KMS
 - Working with KeyRings and CryptoKeys
