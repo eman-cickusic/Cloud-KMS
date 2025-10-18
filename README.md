@@ -6,7 +6,7 @@ This repository contains a complete implementation of a Google Cloud Platform (G
 
 https://youtu.be/pAgyV0L7FsM
 
-## 🎯 Project Overview       
+## 🎯 Project Overview        
 
 This lab project covers:
 - Setting up secure Cloud Storage buckets
